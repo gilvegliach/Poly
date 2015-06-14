@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <string name="size_activity">Size activity</string>
+    <string name="color_activity">Color activity</string>
+    <string name="start_activity">Start activity</string>
+    <string name="action_settings">Settings</string>
+</resources>
