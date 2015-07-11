@@ -20,14 +20,14 @@ The sample represents a simple use case for an Android app.
 
 1. Build and install processor:
 
-```
-cd Processor
-mvn clean install
-```
-
+    ```sh
+    cd Processor
+    mvn clean install
+	```
+	
 2. Build app
 
-```
-cd Sample
-./gradlew assemble
-```
+    ```sh
+    cd Sample
+    ./gradlew assemble
+	```
